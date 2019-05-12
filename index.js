@@ -10,4 +10,4 @@ const removeFirst = ["Milo", "Otis", "Garfield"];
 
 append.push('Odie');
 
-append.unshift('Odie');
+prepend.unshift('Odie');
